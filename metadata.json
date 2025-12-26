@@ -1,0 +1,7 @@
+{
+  "name": "The 13-Moon Oracle",
+  "description": "A mystical tool converting Gregorian time to the 13-Moon 28-Day synchronous order, featuring AI-powered energetic readings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
